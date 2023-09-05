@@ -1,0 +1,17 @@
+First Name:  D
+Last Name:  S
+Age:  19
+Birthday date:  7/5/2004
+Gender:  female
+Height in cm:  150
+Weight in kg:  50
+Your BMI =  22.22
+Your BMR =  1321
+Body type:  Congratulations ! Your weight is normal.
+Daily Calorie Needed:  2509
+Classification of Calories:  None
+Sports:  Squash, Swimming, gymnastics and running are ultimately the best sports to play to make your body more healthy!
+The total Calories in your meals are 666g.
+The total grams of Fat in your meals are 9g.
+The total grams of Protein in your meals are 153g.
+The total grams of Carbohydrates in your meals are 0g.
